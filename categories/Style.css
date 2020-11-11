@@ -6,7 +6,7 @@ a
 {
   font-family: Arial;
   font-weight: bold;
-  font-decoration: none;
+  text-decoration: none;
 }
 body
 {
@@ -15,4 +15,8 @@ body
 .page
 {
   background-color: white;    
+}
+li
+{
+	display: inline-block;
 }
