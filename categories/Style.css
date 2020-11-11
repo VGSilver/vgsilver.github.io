@@ -11,9 +11,12 @@ body
 {
 	background-color: white;    
 }
-li a
+ul
 {
+	font-family: Arial;
 	display: inline-block;
 	text-decoration:none;
 	padding: 10px;
+	border-top: 1px solid black;
+	border-bottom: 1px solid black;
 }
