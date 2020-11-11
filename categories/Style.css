@@ -15,6 +15,11 @@ body
 {
 	background-color: white;    
 }
+ul
+{
+	border-top: 1px solid lightblue;
+	border-bottom: 1px solid lightblue;
+}
 ul li
 {
 	display: inline-block;
