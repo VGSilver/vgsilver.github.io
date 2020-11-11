@@ -1,7 +1,7 @@
 h1
 {
 	font-family: Arial;
-	margin: center;
+	text-align: center;
 }
 body
 {
@@ -16,4 +16,5 @@ li a
 	display: inline-block;
 	padding: 10px;
 	text-decoration:none;
+	font-size: 11px;
 }
