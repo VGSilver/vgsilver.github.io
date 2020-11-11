@@ -9,3 +9,20 @@ a
     color: rgb(0,0,128); 
     text-decoration:none;
   }
+ul
+{
+	border-top: 1px solid black;
+	border-bottom: 1px solid black;
+}
+ul li
+{
+	display: inline-block;
+	padding: 10px;
+}
+ul li a
+{
+	font-family: Arial;
+	font-weight: bold;
+	text-decoration:none;
+}
+
