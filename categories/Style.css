@@ -13,7 +13,8 @@ body
 }
 .page
 {
-	background-color: lightblue;    
+	background-color: lightblue;
+	height: 100%;
 }
 ul
 {
