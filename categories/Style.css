@@ -14,6 +14,8 @@ body
 .page
 {
 	background-color: lightblue;
+	width: auto;
+	padding: 25px;
 	mid-height: 100%;
 }
 ul
