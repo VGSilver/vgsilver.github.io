@@ -22,16 +22,16 @@ body
 .videos
 {
 	display: inline-block;
-	margin: auto;
 	column-count: 2;
 	column-gap: 25px;
+	margin: auto;
 }
 .vid
 {
 	display: inline-block;
 	width: 480px;
 	height: 270px;
-	padding: 10px;
+	padding: 5px;
 }
 ul
 {
