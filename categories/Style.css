@@ -21,13 +21,10 @@ body
 }
 .videos
 {
-	margin: auto;
- 	width: 50%;
 	display: inline-block;
 	/* column-count: 2;
 	column-gap: 5px;*/
-	margin: auto;
- 	width: 50%;
+	
 }
 .vid
 {
