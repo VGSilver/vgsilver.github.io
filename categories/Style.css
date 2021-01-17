@@ -22,13 +22,12 @@ body
 .videos
 {
 	display: inline-block;
-	/* column-count: 2;
-	column-gap: 5px;*/
+	column-count: 2;
+	column-gap: 5px;
 	
 }
 .vid
 {
-	display: inline-block;
 	width: 480px;
 	height: 270px;
 	padding: 5px;
