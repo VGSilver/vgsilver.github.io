@@ -21,6 +21,7 @@ body
 }
 .videos
 {
+	display: inline-block;
 	padding: 40px;
 }
 ul
