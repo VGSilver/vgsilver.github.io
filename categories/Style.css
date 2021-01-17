@@ -23,7 +23,7 @@ body
 {
 	display: inline-block;
 	column-count: 2;
-	column-gap: 25px;
+	column-gap: 5px;
 }
 .vid
 {
