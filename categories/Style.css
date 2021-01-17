@@ -21,8 +21,7 @@ body
 }
 .videos
 {
-	width: 480;
-	height: 270;
+	margin: 0 auto;
 }
 ul
 {
