@@ -26,6 +26,8 @@ body
 }
 .vid
 {
+	border-top: 1px;
+	border-bottom: 1px;
 	padding: 10px;
 }
 ul
