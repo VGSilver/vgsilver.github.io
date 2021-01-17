@@ -21,8 +21,7 @@ body
 }
 .videos
 {
-	display: inline-block;
-	padding: 50px;
+	width: 480;
 }
 ul
 {
