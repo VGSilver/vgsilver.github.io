@@ -24,13 +24,15 @@ body
 	display: inline-block;
 	column-count: 2;
 	column-gap: 5px;
-	margin-left: -500px;
+	margin: auto;
+	width: 50%;
 	
 }
 .vid
 {
 	width: 480px;
 	height: 270px;
+	padding: 5px;
 }
 ul
 {
