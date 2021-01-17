@@ -21,8 +21,11 @@ body
 }
 .videos
 {
-	padding: 60px;
-	mid-height: 100%;
+	column-count: 2;
+	column-gap: 25px;
+	column-rule-width: 1px;
+	column-rule-style: dotted;
+	column-rule-color: rgb(0,0,0);
 }
 ul
 {
