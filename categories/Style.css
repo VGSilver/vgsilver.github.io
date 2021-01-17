@@ -24,7 +24,6 @@ body
 	display: inline-block;
 	column-count: 2;
 	column-gap: 25px;
-	margin: auto;
 }
 .vid
 {
@@ -32,6 +31,7 @@ body
 	width: 480px;
 	height: 270px;
 	padding: 5px;
+	margin: auto;
 }
 ul
 {
