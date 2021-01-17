@@ -21,7 +21,8 @@ body
 }
 .videos
 {
-	padding: 100px;
+	padding: 60px;
+	mid-height: 100%;
 }
 ul
 {
