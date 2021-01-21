@@ -33,8 +33,7 @@ body
 }
 #center
 {
-	display: inline-block;
-	margin:  0 auto;
+	margin-right: 25%;
 }
 ul
 {
