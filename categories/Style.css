@@ -33,6 +33,7 @@ body
 }
 .videos #center
 {
+	display: inline-block;
 	margin-right: 50%;
 }
 ul
