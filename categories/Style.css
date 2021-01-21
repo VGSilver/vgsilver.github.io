@@ -31,9 +31,9 @@ body
 	height: 270px;
 	padding: 5px;
 }
-#center
+.videos #center
 {
-	margin-right: 25%;
+	margin-right: 50%;
 }
 ul
 {
