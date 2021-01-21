@@ -22,7 +22,7 @@ body
 .videos
 {
 	display: inline-block;
-	margin-left: 15%;
+	margin-left: 11.75%;
 }
 .vid
 {
@@ -31,10 +31,10 @@ body
 	height: 270px;
 	padding: 5px;
 }
-.videos .vid #center
+.videos-center
 {
 	display: inline-block;
-	margin-right: 50%;
+	margin-left: 31.25%;
 }
 ul
 {
